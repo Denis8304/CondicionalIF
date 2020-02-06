@@ -8,7 +8,7 @@ function mostrar()
 	{
 		alert("EXCELENTE");
 
-	}else if(nota <= 4)
+	}else if(nota < 4)
 	{
 		alert("Vamos, la proxima se puede");
 	}
